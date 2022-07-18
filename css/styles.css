@@ -78,8 +78,7 @@ img {
 }
 .logo {
   margin-right: 93px;
-  margin-top: 25px;
-  margin-bottom: 25px;
+  padding: 25px 0;
   font-family: var(--secondary-font);
   font-weight: 700;
   font-size: 26px;
@@ -96,6 +95,7 @@ img {
   margin-right: 50px;
 }
 .menu-link {
+  padding: 32px 0;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -120,6 +120,7 @@ img {
 }
 .tel-link,
 .mail-link {
+  padding: 32px 0;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
