@@ -265,6 +265,9 @@ img {
 .basement .dark-theme {
   color: var(--white-color);
 }
+.basement .logo {
+  margin: 0;
+}
 .cnt-address {
   margin-top: 20px;
   font-style: normal;
