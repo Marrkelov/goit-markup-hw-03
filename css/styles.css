@@ -71,10 +71,12 @@ img {
 /* ===================== /COMPONENT ======================= */
 /* =================  M A I N   P A G E =================== */
 /* ======================= HEADER ========================= */
+.hdr {
+  border-bottom: 1px solid var(--header-bottom-border-color);
+}
 .hdr-container {
   display: flex;
   align-items: center;
-  border-bottom: 1px solid var(--header-bottom-border-color);
 }
 .logo {
   margin-right: 93px;
