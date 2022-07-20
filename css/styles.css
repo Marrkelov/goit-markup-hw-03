@@ -139,9 +139,6 @@ img {
   background-color: var(--secondary-bg-color);
   text-align: center;
 }
-.hero-container {
-  margin: 106px auto;
-}
 .hero-title {
   margin: 0 237px;
   margin-bottom: 30px;
